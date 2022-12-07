@@ -11,8 +11,8 @@ const headingStyles = {
   maxWidth: 320,
 }
 const headingAccentStyles = {
-  color: "#663399",
-}
+  color: '#663399',
+};
 const paragraphStyles = {
   marginBottom: 48,
 }
